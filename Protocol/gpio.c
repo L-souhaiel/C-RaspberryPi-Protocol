@@ -35,7 +35,7 @@
 
 
 
-
+//this is a program give the user the possibility to manipulate Input and Output data from Raspberry GPIO
 
 
 /* Symbolische Namen fuer die Datenrichtung und die Daten  */
